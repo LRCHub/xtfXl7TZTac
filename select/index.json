@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Into The Night",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-03-06T15:28:23.142388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Into The Night",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/01_Into_The_Night_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Into the Night",
+      "artist": "Nick Kamen",
+      "has_synced": false,
+      "path": "select/02_Into_the_Night_Nick_Kamen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me Away (Into the Night) - Katie J. Remix",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/03_Take_Me_Away_(Into_the_Night)_-_Katie_J._Remix_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me Away (Into the Night) (RMB vocal)",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/04_Take_Me_Away_(Into_the_Night)_(RMB_vocal)_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me Away (Into the Night) - D'Tech Remix",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/05_Take_Me_Away_(Into_the_Night)_-_D'Tech_Remix_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me Away (Into the Night) - Symphony of Strings Remix",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/06_Take_Me_Away_(Into_the_Night)_-_Symphony_of_Strings_Remix_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Me Away (Into the Night) - Original Mix",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/07_Take_Me_Away_(Into_the_Night)_-_Original_Mix_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Into the Night",
+      "artist": "Love Inc.",
+      "has_synced": false,
+      "path": "select/08_Into_the_Night_Love_Inc..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Into the Night (Gabriel & Dresden 4 Deep remix)",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/09_Into_the_Night_(Gabriel_&_Dresden_4_Deep_remix)_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Into The Night",
+      "artist": "Monarchy",
+      "has_synced": true,
+      "path": "select/10_Get_Into_The_Night_Monarchy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Into the Night",
+      "artist": "Mitch Murder feat. Megan McDuffee",
+      "has_synced": false,
+      "path": "select/11_Into_the_Night_Mitch_Murder_feat._Megan_McDuffee.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Into the Night (feat. Megan McDuffee)",
+      "artist": "Mitch Murder",
+      "has_synced": false,
+      "path": "select/12_Into_the_Night_(feat._Megan_McDuffee)_Mitch_Murder.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Into the Night",
+      "artist": "Interpol",
+      "has_synced": true,
+      "path": "select/13_Into_the_Night_Interpol.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lead Me Into The Night",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/14_Lead_Me_Into_The_Night_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Sadness Lingers Well Beyond into the Night",
+      "artist": "Takako Mamiya",
+      "has_synced": false,
+      "path": "select/15_The_Sadness_Lingers_Well_Beyond_into_the_Night_Takako_Mamiya.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Into the Night",
+      "artist": "The Human League",
+      "has_synced": false,
+      "path": "select/16_Into_the_Night_The_Human_League.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Into the Night",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/17_Into_the_Night_HIM.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Into the Night",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/18_Into_the_Night_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "From Prying Plans Into the Fire",
+      "artist": "Tamas Wells",
+      "has_synced": false,
+      "path": "select/19_From_Prying_Plans_Into_the_Fire_Tamas_Wells.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Into the New World",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/20_Into_the_New_World_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Into The New World",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/21_Into_The_New_World_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Into The Sunset - Instrumental",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/22_Into_The_Sunset_-_Instrumental_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Into The Sunset (feat. Bilmuri)",
+      "artist": "Dance Gavin Dance feat. Bilmuri",
+      "has_synced": true,
+      "path": "select/23_Into_The_Sunset_(feat._Bilmuri)_Dance_Gavin_Dance_feat._Bilmuri.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Into The Sunset (feat. Bilmuri)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/24_Into_The_Sunset_(feat._Bilmuri)_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into the New World (Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/25_다시_만난_세계_Into_the_New_World_(Remix)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into The New World)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/26_다시_만난_세계_(Into_The_New_World)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into The New World)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/27_다시_만난_세계_(Into_The_New_World)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Remix (Into the New World Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/28_다시_만난_세계_Remix_(Into_the_New_World_Remix)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Step Into the Realm",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/29_Step_Into_the_Realm_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Step Into The Realm",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/30_Step_Into_The_Realm_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Straight Into The Fire",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/31_Straight_Into_The_Fire_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Fly Into the Sun",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/32_Fly_Into_the_Sun_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Into the Fold",
+      "artist": "Luna",
+      "has_synced": true,
+      "path": "select/33_Into_the_Fold_Luna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Into The Night",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Into_The_Night_YOASOBI.txt"
+    }
+  ]
+}
